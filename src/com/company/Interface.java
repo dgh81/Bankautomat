@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import static com.company.Main.*;
 
-
+// temp
 public class Interface {
     public static void interface2(Bruger bruger) throws IOException {
         Scanner scanInter = new Scanner(System.in);
