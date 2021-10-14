@@ -72,10 +72,10 @@ public class Interface {
             System.out.println("er du sikker på vil afslutte\n ja eller nej");
             //mangler link to log in
             String command9 = scanInter.nextLine();
-            if ("ja".equals(command)) {
+            if ("ja".equals(command9)) {
                 System.out.println("Du logger nu af.");
                 main(null);
-            } else if("nej".equals(command)) {
+            } else if("nej".equals(command9)) {
                  interface2(bruger);
             }
         } else {
